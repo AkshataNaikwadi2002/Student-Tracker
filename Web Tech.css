@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.table{
+    
+    margin-top: 5%;
+}
+.second{
+    font-weight: bolder;
+    text-align: center;
+    font-size: 30px;
+    color: royalblue;
+    
+}
